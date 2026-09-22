@@ -1,5 +1,0 @@
-base_model = "ai21/jamba-large"
-
-[cost]
-input = 2.00
-output = 8.00

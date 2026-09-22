@@ -1,9 +1,0 @@
-name = "NeoSmith"
-
-env = ["NEOSMITH_API_KEY"]
-
-npm = "@ai-sdk/openai"
-
-api = "https://router.neosmith.ai/v1"
-
-doc = "https://neosmith.ai/docs"
